@@ -20,7 +20,7 @@ export default function CTABanner() {
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold text-white leading-tight mb-6">
             علامتك التجارية تستحق أن تتميز
           </h2>
-          <p className="text-brand-rose/80 text-lg mb-10 max-w-xl mx-auto leading-relaxed">
+          <p className="text-brand-rose/80 text-lg mb-10 leading-relaxed">
             دعنا نصنعها معاً — تواصل معنا اليوم وابدأ رحلتك نحو حضور رقمي قوي وحقيقي.
           </p>
 
