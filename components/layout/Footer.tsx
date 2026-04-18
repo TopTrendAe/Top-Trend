@@ -70,7 +70,7 @@ export default function Footer() {
               </li>
               <li className="text-sm text-brand-rose/70">
                 <span>📍</span>{" "}
-                <span className="mr-2">المويهات 2 - عجمان - الإمارات</span>
+                <span className="mr-2">المويهات 2 - عجمان - الإمارات العربية المتحدة</span>
               </li>
               <li className="text-sm text-brand-rose/50">
                 رقم الرخصة: 136604

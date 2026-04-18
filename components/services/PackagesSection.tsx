@@ -261,6 +261,7 @@ export default function PackagesSection() {
           </h3>
           <p className="text-brand-gray max-w-lg mx-auto mb-8 leading-relaxed">
             اختر المنصات، المنشورات، الريلز، والخدمات التي تحتاجها فعلاً —
+            <br />
             سيتم تحديد السعر بناءً على ما تختاره.
           </p>
           <Link

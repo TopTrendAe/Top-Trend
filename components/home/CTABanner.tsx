@@ -32,7 +32,7 @@ export default function CTABanner() {
               اطلب خدمة الآن
             </Link>
             <a
-              href="https://wa.me/966560861010"
+              href="https://wa.me/971581820011"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-white/30 text-white font-semibold px-10 py-4 rounded-full text-base hover:border-white hover:bg-white/10 transition-all duration-300"
