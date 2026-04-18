@@ -57,6 +57,17 @@ export default function Footer() {
                   <span dir="ltr">+966 56 086 1010</span>
                 </a>
               </li>
+              <li>
+                <a
+                  href="https://wa.me/971581820011"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-brand-rose/70 hover:text-white transition-colors flex items-center gap-2"
+                >
+                  <span>📱</span>
+                  <span dir="ltr">+971 58 182 0011</span>
+                </a>
+              </li>
               <li className="text-sm text-brand-rose/70">
                 <span>📍</span>{" "}
                 <span className="mr-2">المويهات 2 - عجمان - الإمارات</span>

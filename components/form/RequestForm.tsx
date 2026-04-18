@@ -107,13 +107,18 @@ export default function RequestForm() {
             العودة للرئيسية
           </a>
           <a
-            href="https://wa.me/971581820011"
+            href="https://wa.me/966560861010"
             target="_blank"
             rel="noopener noreferrer"
             className="border-2 border-brand-burgundy text-brand-burgundy font-semibold px-8 py-3 rounded-full hover:bg-brand-burgundy hover:text-white transition-all"
           >
             تواصل واتساب
           </a>
+        </div>
+        <div className="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2 text-brand-gray text-xs">
+          <span dir="ltr">+966 56 086 1010</span>
+          <span className="hidden sm:inline">|</span>
+          <span dir="ltr">+971 58 182 0011</span>
         </div>
       </motion.div>
     );
@@ -254,10 +259,10 @@ export default function RequestForm() {
           <Field label="الميزانية الشهرية المتوقعة" required error={errors.budget_range?.message}>
             <select {...register("budget_range")} className={fieldClass}>
               <option value="">اختر المدى...</option>
-              <option value="under_2500">أقل من ٢٥٠٠ درهم</option>
-              <option value="2500_5000">٢٥٠٠ – ٥٠٠٠ درهم</option>
-              <option value="5000_10000">٥٠٠٠ – ١٠٠٠٠ درهم</option>
-              <option value="above_10000">أكثر من ١٠٠٠٠ درهم</option>
+              <option value="under_2500">ميزانية صغيرة</option>
+              <option value="2500_5000">ميزانية متوسطة</option>
+              <option value="5000_10000">ميزانية كبيرة</option>
+              <option value="above_10000">ميزانية مرنة / غير محددة</option>
               <option value="not_sure">لم أحدد بعد</option>
             </select>
           </Field>
