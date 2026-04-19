@@ -32,7 +32,7 @@ export default function CTABanner() {
               اطلب خدمة الآن
             </Link>
             <a
-              href="https://wa.me/971581820011"
+              href="https://api.whatsapp.com/send/?phone=971522729796&text&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
               className="border-2 border-white/30 text-white font-semibold px-10 py-4 rounded-full text-base hover:border-white hover:bg-white/10 transition-all duration-300"
@@ -41,10 +41,8 @@ export default function CTABanner() {
             </a>
           </div>
 
-          <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3 text-brand-rose/50 text-sm">
-            <span dir="ltr">+966 56 086 1010</span>
-            <span className="hidden sm:inline text-brand-rose/30">|</span>
-            <span dir="ltr">+971 58 182 0011</span>
+          <div className="mt-8 text-brand-rose/50 text-sm">
+            <span dir="ltr">+971 52 272 9796</span>
           </div>
         </motion.div>
       </div>

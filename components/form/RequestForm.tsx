@@ -107,7 +107,7 @@ export default function RequestForm() {
             العودة للرئيسية
           </a>
           <a
-            href="https://wa.me/971581820011"
+            href="https://api.whatsapp.com/send/?phone=971522729796&text&type=phone_number&app_absent=0"
             target="_blank"
             rel="noopener noreferrer"
             className="border-2 border-brand-burgundy text-brand-burgundy font-semibold px-8 py-3 rounded-full hover:bg-brand-burgundy hover:text-white transition-all"
@@ -115,10 +115,8 @@ export default function RequestForm() {
             تواصل واتساب
           </a>
         </div>
-        <div className="mt-4 flex flex-col sm:flex-row items-center justify-center gap-2 text-brand-gray text-xs">
-          <span dir="ltr">+966 56 086 1010</span>
-          <span className="hidden sm:inline">|</span>
-          <span dir="ltr">+971 58 182 0011</span>
+        <div className="mt-4 text-brand-gray text-xs text-center">
+          <span dir="ltr">+971 52 272 9796</span>
         </div>
       </motion.div>
     );
