@@ -74,11 +74,10 @@ export default function Footer() {
                 <span>📍</span>{" "}
                 <span className="mr-2">المويهات 2 - عجمان - الإمارات العربية المتحدة</span>
               </li>
-              <li className="text-sm text-brand-rose/50">
-                رقم الرخصة: 136604
-              </li>
-              <li className="text-sm text-brand-rose/50">
-                رقم الرخصة الإعلامية: 7529829
+              <li className="text-sm text-brand-rose/50 flex items-center gap-3 flex-wrap">
+                <span>رقم الرخصة: 136604</span>
+                <span>|</span>
+                <span>رقم الرخصة الإعلامية: 7529829</span>
               </li>
             </ul>
           </div>
