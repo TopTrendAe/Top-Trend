@@ -71,6 +71,15 @@ export default function Footer() {
               <li className="text-sm text-brand-rose/50">
                 رقم الرخصة الإعلامية: 7529829
               </li>
+              <li>
+                <a
+                  href="mailto:Sales@toptrend.ae"
+                  className="text-sm text-brand-rose/70 hover:text-white transition-colors flex items-center gap-2"
+                >
+                  <span>✉️</span>
+                  <span>Sales@toptrend.ae</span>
+                </a>
+              </li>
             </ul>
           </div>
         </div>
