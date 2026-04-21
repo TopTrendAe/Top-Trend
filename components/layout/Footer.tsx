@@ -79,7 +79,7 @@ export default function Footer() {
               </li>
                <li>
                 <a
-                  href="https://www.google.com/maps/@25.3751178,55.5208454,2997m/data=!3m1!1e3?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D"
+                  href="https://www.google.com/maps/place/Top+Trend+Marketing/@25.3741727,55.5109754,1793m/data=!3m1!1e3!4m6!3m5!1s0x3ef5f732b2efea0d:0xeeee122300156f8!8m2!3d25.3751176!4d55.507353!16s%2Fg%2F11nhgkbk8b?entry=ttu&g_ep=EgoyMDI2MDQxNS4wIKXMDSoASAFQAw%3D%3D"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-brand-rose/70 hover:text-white transition-colors flex items-center gap-2"
