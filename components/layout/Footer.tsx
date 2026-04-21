@@ -88,7 +88,7 @@ export default function Footer() {
             © {new Date().getFullYear()} توب تريند. جميع الحقوق محفوظة.
           </p>
           <p className="text-xs text-brand-rose/30">
-            وكالة إبداعية في الإمارات العربية المتحدة
+            وكالة تسويق إبداعية في الإمارات العربية المتحدة
           </p>
         </div>
       </div>
