@@ -57,7 +57,12 @@ export default function Footer() {
                   <span dir="ltr">+971 52 272 9796</span>
                 </a>
               </li>
-              <li className="text-sm text-brand-rose/70 flex items-center gap-2">
+              <a
+                  href="https://api.whatsapp.com/send/?phone=966560861010&text&type=phone_number&app_absent=0"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-brand-rose/70 flex items-center gap-2"
+                >
                 <span>📱</span>
                 <span dir="ltr">+966 56 086 1010</span>
               </li>
